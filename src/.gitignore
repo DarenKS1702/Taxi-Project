@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables (never commit real keys)
+.env
+.env.local
+
+# Build output
+dist/
+
+# Editor
+.vscode/
+.DS_Store
